@@ -1,0 +1,22 @@
+{
+  "name": "iot-smart-waste-management",
+  "version": "1.0.0",
+  "description": "IoT-Enabled Smart Waste Monitoring and Route Optimization System for EVS Assignment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "iot",
+    "smart-waste",
+    "route-optimization",
+    "evs",
+    "environmental-studies",
+    "leaflet",
+    "nodejs"
+  ],
+  "author": "EVS Engineering Team",
+  "license": "MIT"
+}
